@@ -24,9 +24,9 @@
 I design, train, and deploy high-throughput AI architectures that replace empirical trial-and-error with deterministic computational intelligence. My work bridges:
 
 - **Autonomous Agentic Infrastructure:** Engineering deterministic multi-agent swarms with Model Context Protocol (MCP), episodic memory stores (Mem0 / Qdrant), and locked reasoning loops.
-- **De Novo Molecular & Biologics Generation:** Compressing chemical search space across $10^{60}$ molecular candidates into verified in silico hits within 48–72 hours.
+- **De Novo Molecular & Biologics Generation:** Compressing chemical search space across 10⁶⁰ molecular candidates into verified in silico hits within 48–72 hours.
 - **Contrastive Knowledge Graphs:** Training node-level Graph Neural Networks (GNNs) across massive heterogeneous interactomes (1.8M+ nodes, 42M+ edges) with Modality Dropout Defense against latent hallucination.
-- **Physical AI & Predictive Formulation:** Fine-tuning ChemBERTa domain transformers on high-purity crystalline datasets to forecast solid-state thermal degradation ($T_{	ext{onset}}$) with $\pm 3.8^\circ	ext{C}$ empirical accuracy before wet-lab compounding.
+- **Physical AI & Predictive Formulation:** Fine-tuning ChemBERTa domain transformers on high-purity crystalline datasets to forecast solid-state thermal degradation (Tonset) with ±3.8°C empirical accuracy before wet-lab compounding.
 - **High-Performance Compute & Zero Trust:** Designing HIPAA-isolated, air-gapped inference and training pipelines leveraging NVIDIA Tensor cores, vLLM, SGLang, and microsecond-scale Molecular Dynamics (MD/FEP).
 
 ---
