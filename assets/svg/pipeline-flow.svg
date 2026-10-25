@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="150" viewBox="0 0 840 150" role="img" aria-label="Upstream Computational Pipeline: Disease Signal to 1.8M Interactome to De Novo Chemistry to ChemBERTa Formulation to De-Risked Candidate in 48-72 Hours.">
+  <style>
+    .m { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; font-weight: 700; letter-spacing: 1.2px; }
+    .t { font-family: 'Segoe UI', Inter, -apple-system, sans-serif; font-weight: 700; }
+    .d { font-family: 'Segoe UI', Inter, -apple-system, sans-serif; font-weight: 500; }
+  </style>
+
+  <defs>
+    <linearGradient id="pcard" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0e1726"/>
+      <stop offset="100%" stop-color="#080d16"/>
+    </linearGradient>
+    <linearGradient id="pflow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="50%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base Card -->
+  <rect x="0.5" y="0.5" width="839" height="149" rx="16" fill="url(#pcard)" stroke="rgba(255,255,255,0.08)"/>
+
+  <!-- Pipeline Track Line -->
+  <line x1="80" y1="75" x2="760" y2="75" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <circle cx="80" cy="75" r="3.5" fill="#38bdf8">
+    <animateMotion dur="3.5s" repeatCount="indefinite" path="M0 0 L680 0"/>
+  </circle>
+
+  <!-- Stage 1: Target Signal -->
+  <g transform="translate(40, 25)">
+    <rect width="135" height="100" rx="12" fill="#0b131e" stroke="#38bdf844" stroke-width="1.2"/>
+    <circle cx="20" cy="22" r="5" fill="#38bdf8"/>
+    <text class="m" x="32" y="26" fill="#38bdf8" font-size="9">STAGE 01</text>
+    <text class="t" x="14" y="52" fill="#ffffff" font-size="12">Disease Signal</text>
+    <text class="d" x="14" y="72" fill="rgba(255,255,255,0.55)" font-size="10">Target Identification</text>
+    <text class="d" x="14" y="86" fill="rgba(255,255,255,0.55)" font-size="10">&amp; Pocket Mapping</text>
+  </g>
+
+  <!-- Stage 2: ReviveAI Graph -->
+  <g transform="translate(205, 25)">
+    <rect width="145" height="100" rx="12" fill="#0b131e" stroke="#2dd4bf44" stroke-width="1.2"/>
+    <circle cx="20" cy="22" r="5" fill="#2dd4bf"/>
+    <text class="m" x="32" y="26" fill="#2dd4bf" font-size="9">STAGE 02</text>
+    <text class="t" x="14" y="52" fill="#ffffff" font-size="12">1.8M Node GNN</text>
+    <text class="d" x="14" y="72" fill="rgba(255,255,255,0.55)" font-size="10">42M Interactome Edges</text>
+    <text class="d" x="14" y="86" fill="rgba(255,255,255,0.55)" font-size="10">Modality Dropout Defense</text>
+  </g>
+
+  <!-- Stage 3: DiscoveraAI De Novo -->
+  <g transform="translate(380, 25)">
+    <rect width="145" height="100" rx="12" fill="#0b131e" stroke="#38bdf844" stroke-width="1.2"/>
+    <circle cx="20" cy="22" r="5" fill="#38bdf8"/>
+    <text class="m" x="32" y="26" fill="#38bdf8" font-size="9">STAGE 03</text>
+    <text class="t" x="14" y="52" fill="#ffffff" font-size="12">De Novo Design</text>
+    <text class="d" x="14" y="72" fill="rgba(255,255,255,0.55)" font-size="10">GPU DynaDock (FEP)</text>
+    <text class="d" x="14" y="86" fill="rgba(255,255,255,0.55)" font-size="10">FoldPredict Conformation</text>
+  </g>
+
+  <!-- Stage 4: Enformis Formulation -->
+  <g transform="translate(555, 25)">
+    <rect width="140" height="100" rx="12" fill="#0b131e" stroke="#fbbf2444" stroke-width="1.2"/>
+    <circle cx="20" cy="22" r="5" fill="#fbbf24"/>
+    <text class="m" x="32" y="26" fill="#fbbf24" font-size="9">STAGE 04</text>
+    <text class="t" x="14" y="52" fill="#ffffff" font-size="12">ChemBERTa AI</text>
+    <text class="d" x="14" y="72" fill="rgba(255,255,255,0.55)" font-size="10">Tonset (±3.8°C Precision)</text>
+    <text class="d" x="14" y="86" fill="rgba(255,255,255,0.55)" font-size="10">Excipient Compatibility</text>
+  </g>
+
+  <!-- Stage 5: Final Delivery Banner -->
+  <g transform="translate(720, 25)">
+    <rect width="80" height="100" rx="12" fill="#10b98114" stroke="#10b98166" stroke-width="1.2"/>
+    <circle cx="40" cy="25" r="7" fill="#10b981">
+      <animate attributeName="opacity" values="1;0.4;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text class="m" x="40" y="52" text-anchor="middle" fill="#10b981" font-size="9">READY</text>
+    <text class="t" x="40" y="72" text-anchor="middle" fill="#ffffff" font-size="14">48-72h</text>
+    <text class="d" x="40" y="88" text-anchor="middle" fill="#10b981" font-size="9.5">De-Risked</text>
+  </g>
+</svg>
