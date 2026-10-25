@@ -1,39 +1,46 @@
 <div align="center">
 
-# 🧬 Prathamesh Walse
-### **Founder & Chief Architect — [ULTRACEUTICALS](https://www.ultraceuticals.in)**
-#### *India's Premier AI-First Contract Research Organization (AI CRO)*
+<!-- Hero Animated Banner -->
+<picture>
+  <img src="assets/svg/hero.svg" width="100%" alt="Prathamesh Walse. Founder & Chief Architect at Ultraceuticals. India's Premier AI-Native CRO." />
+</picture>
 
-[![Website](https://img.shields.io/badge/Official_Website-ultraceuticals.in-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ultraceuticals.in)
-[![Wikidata](https://img.shields.io/badge/Wikidata-Q141856149-339966?style=for-the-badge&logo=wikidata&logoColor=white)](https://www.wikidata.org/wiki/Q141856149)
-[![Email](https://img.shields.io/badge/Inquiries-info%40ultraceuticals.in-6366f1?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@ultraceuticals.in)
-
-<br/>
-
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.x_Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![CUDA](https://img.shields.io/badge/NVIDIA-CUDA_L4_Compute-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com)
-[![Transformers](https://img.shields.io/badge/Transformers-ChemBERTa_LLMs-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![MCP](https://img.shields.io/badge/Protocol-Model_Context_Protocol-8A2BE2?style=flat-square)](https://modelcontextprotocol.io)
-[![Next.js](https://img.shields.io/badge/Next.js-16_Turbopack-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
-[![Zero Trust](https://img.shields.io/badge/Security-HIPAA_Zero_Trust-0ea5e9?style=flat-square)](https://www.ultraceuticals.in/privacy)
+<!-- Animated Stat Badges -->
+<picture>
+  <img src="assets/svg/profile-badges.svg" width="100%" alt="Founder & Chief Architect; Ultraceuticals; 48-72h Sprints; 85% Cost Cut; 1.8M/42M Interactome; ±3.8°C Precision; Zero Trust; Wikidata Q141856149" />
+</picture>
 
 <p align="center">
-  <strong>Pioneering the AI-Native CRO paradigm in India.</strong><br/>
-  Replacing empirical trial-and-error chemistry with generative de novo design, contrastive knowledge graph repurposing, and predictive solid-state formulation.
+  <a href="https://www.ultraceuticals.in"><img src="https://img.shields.io/badge/Enterprise_Portal-ultraceuticals.in-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.wikidata.org/wiki/Q141856149"><img src="https://img.shields.io/badge/Entity_Knowledge_Graph-Wikidata_Q141856149-339966?style=for-the-badge&logo=wikidata&logoColor=white" alt="Wikidata" /></a>
+  <a href="mailto:info@ultraceuticals.in"><img src="https://img.shields.io/badge/Institutional_Inquiries-info%40ultraceuticals.in-6366f1?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
----
+<picture><img src="assets/svg/divider.svg" width="100%" alt="" /></picture>
 
 ## 👨‍💼 Executive Summary
 
-As the **Founder & Chief Architect of Ultraceuticals (Fortem Biosciences Pvt. Ltd.)**, I lead the design and deployment of sovereign deeptech AI engines that compress preclinical drug discovery and formulation timelines from **18 months down to 48–72 hours**, saving biopharma enterprises up to **85% in wet-lab compound synthesis costs**.
+As the **Founder & Chief Architect of Ultraceuticals (Fortem Biosciences Pvt. Ltd.)**, I lead the engineering and deployment of India's premier **AI-Native Contract Research Organization (AI CRO)**. 
 
-Based in **Bengaluru, India** (the deeptech capital), our platforms bridge computational chemistry, sub-angstrom structural modeling, and autonomous regulatory due diligence for global pharmaceutical sponsors and academic alliances.
+By replacing slow, iterative wet-lab chemistry with generative de novo design, contrastive knowledge graphs, and predictive solid-state formulation kinetics, our computational operating system compresses preclinical milestones from **18 months down to 48–72 hours**, saving biopharma enterprises up to **85% in wet-lab compound synthesis costs**.
 
----
+- **Headquarters:** Bengaluru, Karnataka, India *(Silicon Valley of India)*
+- **Primary Domain:** [https://www.ultraceuticals.in](https://www.ultraceuticals.in)
+- **Competitive Edge:** [Benchmark vs Traditional Indian & Global CROs](https://www.ultraceuticals.in/ai-cro-india)
+
+<picture><img src="assets/svg/divider.svg" width="100%" alt="" /></picture>
+
+## 🧬 Upstream Computational Pipeline
+
+<div align="center">
+  <picture>
+    <img src="assets/svg/pipeline-flow.svg" width="100%" alt="Upstream Computational Pipeline: Disease Signal -> 1.8M Node GNN -> De Novo Chemistry -> ChemBERTa Formulation -> De-Risked Lead" />
+  </picture>
+</div>
+
+<picture><img src="assets/svg/divider.svg" width="100%" alt="" /></picture>
 
 ## 🏛️ Proprietary Deeptech Platforms (ULTRACEUTICALS)
 
@@ -81,7 +88,7 @@ Based in **Bengaluru, India** (the deeptech capital), our platforms bridge compu
   </tr>
 </table>
 
----
+<picture><img src="assets/svg/divider.svg" width="100%" alt="" /></picture>
 
 ## 📊 Benchmarking: The AI CRO Paradigm vs Legacy CROs
 
@@ -98,9 +105,9 @@ Based in **Bengaluru, India** (the deeptech capital), our platforms bridge compu
 └─────────────────────────────────┴──────────────────────────────────┴──────────────────────────────────┘
 ```
 
-> **Explore Full Benchmark:** [Why Ultraceuticals is the Leading AI CRO in India](https://www.ultraceuticals.in/ai-cro-india)
+> **Review Full Ecosystem Analysis:** [Why Ultraceuticals is the Leading AI CRO in India](https://www.ultraceuticals.in/ai-cro-india)
 
----
+<picture><img src="assets/svg/divider.svg" width="100%" alt="" /></picture>
 
 ## 🛠️ Core Engineering & Scientific Stack
 
@@ -118,15 +125,15 @@ Based in **Bengaluru, India** (the deeptech capital), our platforms bridge compu
 └─────────────────────────┴────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<picture><img src="assets/svg/divider.svg" width="100%" alt="" /></picture>
 
-## 🚀 Key Milestones & Alliances
+## 🚀 Milestones & Key Alliances
 
 - **4 Years of Deeptech Maturation:** Established in 2022 in Bengaluru, India; grew from initial interactome graph construction to a multi-platform biopharmaceutical enterprise.
 - **UASPIRE Alliance Program:** Academic and scientific collaboration network partnering with universities and research institutions (Woxsen University, NIT Calicut, SKB Bio-incubator).
-- **Verified Entity:** Indexed on [Wikidata (Q141856149)](https://www.wikidata.org/wiki/Q141856149) as an official Indian AI CRO and biotechnology enterprise.
+- **Verified Global Entity:** Indexed on [Wikidata (Q141856149)](https://www.wikidata.org/wiki/Q141856149) as an official Indian AI CRO and biotechnology enterprise.
 
----
+<picture><img src="assets/svg/divider.svg" width="100%" alt="" /></picture>
 
 ## 📬 Connect & Institutional Inquiries
 
@@ -136,7 +143,8 @@ Based in **Bengaluru, India** (the deeptech capital), our platforms bridge compu
 - **Institutional Partnerships:** [Schedule an Institutional Briefing](https://www.ultraceuticals.in/contact)
 - **Machine-Readable LLM Knowledge:** [llms.txt](https://www.ultraceuticals.in/llms.txt) | [llms-full.txt](https://www.ultraceuticals.in/llms-full.txt)
 
----
+<br/>
+<picture><img src="assets/svg/divider.svg" width="100%" alt="" /></picture>
 
 <div align="center">
   <sub>© Fortem Biosciences Pvt. Ltd. • Ultraceuticals • Engineered in Bengaluru</sub>
